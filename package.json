@@ -10,7 +10,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "@zilliqa-js/zilliqa": "2.0.0-alpha.1",
     "ace-builds": "^1.4.12",
-    "bootstrap": "^4.5.0",
+    "bootstrap": "^4.5.3",
     "moment": "^2.27.0",
     "rc-switch": "^3.2.0",
     "react": "^16.13.1",
